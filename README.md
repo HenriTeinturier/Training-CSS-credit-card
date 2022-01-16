@@ -2,7 +2,7 @@
 It's a little training project for level up CSS.
 ![card image](img/credit-card.png)
 ...[Tutorial from Nicolas Brondin-Bernard](https://blog.nicolas.brondin-bernard.com/tutoriel-creer-une-carte-de-credit-responsive-en-html-css/)... <br>
-...[Résult of this tuto](https://henriteinturier.github.io/Training-CSS-credit-card/)...
+...[Result of this tuto](https://henriteinturier.github.io/Training-CSS-credit-card/)...
 
 
 ## notions reviewed or learned
